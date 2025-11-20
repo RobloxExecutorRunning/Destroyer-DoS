@@ -1,8 +1,0 @@
-aiohttp
-psutil
-uvloop
-asyncio
-argparse
-multiprocessing
-random
-socket
